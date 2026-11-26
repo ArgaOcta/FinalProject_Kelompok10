@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -14,6 +15,38 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
 - [Powerful dependency injection container](https://laravel.com/docs/container).
 - Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
+# BorrowHub
+### Sistem Peminjaman Inventaris & Fasilitas dengan Laravel
+
+BorrowHub merupakan aplikasi berbasis web yang dikembangkan untuk memudahkan mahasiswa dalam melakukan peminjaman inventaris dan fasilitas kampus. Aplikasi ini dirancang untuk membantu proses peminjaman menjadi lebih terorganisir, efisien, dan mudah diakses.
+
+Melalui BorrowHub, mahasiswa dapat melihat inventaris yang tersedia, mengajukan peminjaman barang atau fasilitas, serta memantau informasi peminjaman. Sistem ini juga membantu pengelolaan inventaris dan data peminjaman agar lebih terstruktur.
+
+## 🎯 Tujuan Project
+
+- Mempermudah mahasiswa dalam mengakses dan meminjam inventaris serta fasilitas kampus.
+- Mempermudah pengelolaan data inventaris dan peminjaman.
+- Mengurangi proses administrasi peminjaman secara manual.
+- Meningkatkan efisiensi dan transparansi dalam proses peminjaman.
+
+## 👥 Kelompok 10
+
+| No. | Nama |
+|---|---|
+| 1 | Ahmad Dzaky Romadhon |
+| 2 | Salman Maula Ash-Shidqi |
+| 3 | Alya Dliya Zahra Andre |
+| 4 | Nafila Afni Alqibtiyah |
+| 5 | Arga Octa Ramadhan |
+
+## 🛠️ Tech Stack
+
+- Laravel 12
+- PHP
+- HTML
+- CSS
+- JavaScript
+
 - Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
 - Database agnostic [schema migrations](https://laravel.com/docs/migrations).
 - [Robust background job processing](https://laravel.com/docs/queues).
@@ -57,3 +90,23 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+BorrowHub
+Sistem Peminjaman Inventaris & Fasilitas dengan Laravel
+
+BorrowHub merupakan aplikasi berbasis web yang dikembangkan untuk memudahkan mahasiswa dalam melakukan peminjaman inventaris dan fasilitas kampus. Aplikasi ini dirancang untuk membantu proses peminjaman menjadi lebih terorganisir, efisien, dan mudah diakses.
+
+Melalui BorrowHub, mahasiswa dapat melihat inventaris yang tersedia, mengajukan peminjaman barang atau fasilitas, serta memantau informasi peminjaman. Sistem ini juga membantu pengelolaan inventaris dan data peminjaman agar lebih terstruktur.
+🎯 Tujuan Project
+- Mempermudah mahasiswa dalam mengakses dan meminjam inventaris serta fasilitas kampus.
+- Mempermudah pengelolaan data inventaris dan peminjaman.
+- Mengurangi proses administrasi peminjaman secara manual.
+- Meningkatkan efisiensi dan transparansi dalam proses peminjaman.
+👥 Kelompok 10
+No.	Nama
+1	Ahmad Dzaky Romadhon
+2	Salman Maula Ash-Shidqi
+3	Alya Dliya Zahra Andre
+4	Nafila Afni Alqibtiyah
+5	Arga Octa Ramadhan
+>>>>>>> 79828a0297ac2331fa4c289def500e7241b1b51b
